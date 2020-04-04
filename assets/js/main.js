@@ -51,4 +51,10 @@
     }
   });
 
+  $(document).ready(function(){
+    $("#optionA").click(function(){
+      $("#optionAModal").modal();
+    });
+  });
+
 })(jQuery);
