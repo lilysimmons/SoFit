@@ -372,7 +372,7 @@ section {
 .about ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #fd680e;
+  color:  #AEA1CE;
 }
 
 .about p:last-child {
@@ -416,6 +416,17 @@ section {
 
 .why-us .card-body {
   padding-top: 12px;
+}
+
+.why-us .card-body ul {
+  list-style: none;
+  padding: 0;
+}
+
+.why-us .card-body ul i {
+  font-size: 20px;
+  padding-right: 4px;
+  color:  #AEA1CE;
 }
 
 .why-us .card-title {
